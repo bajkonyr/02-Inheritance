@@ -26,7 +26,7 @@ class CounterApp {
         System.out.println("(After 16 down's) c: " + c);
         System.out.println();
 
-        System.out.println("*** UpperBoundedCounter ***"); //#############################################
+        System.out.println("*** UpperBoundedCounter ***"); //##############################################%
 
         UpperBoundedCounter ubc = new UpperBoundedCounter();
         System.out.println("(After default constructor) ubc: " + ubc);
