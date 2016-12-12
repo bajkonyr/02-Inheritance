@@ -1,5 +1,6 @@
 
 public class Calculations {
+
     int value1, limit, upperlimit,lowerlimit;
 
     public int getVal(){
@@ -9,6 +10,7 @@ public class Calculations {
     public void down() {
         value1--;
     }
+
     public void up() {
         value1++;
     }
